@@ -1,1 +1,1 @@
-# odin-recipes
+Starting today, I'll be working on my project and continue to learn more about what I really want. I'll be showcasing what I've learned ever since I started this curriculum and continue to strive for more greatness.
