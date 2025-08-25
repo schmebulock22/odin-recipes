@@ -1,0 +1,31 @@
+[33mcommit f93c94e29e6a4148db130ad07a2b846405d1085c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: schmebulock22 <schmebulock@Xubuntu.myguest.virtualbox.org>
+Date:   Mon Aug 25 18:20:34 2025 +0800
+
+    Add last recipe, modify list steps for better
+    readable lines.
+
+[33mcommit c441a0b3f881e264a83db75a92ac2daae5581650[m
+Author: schmebulock22 <schmebulock@Xubuntu.myguest.virtualbox.org>
+Date:   Mon Aug 25 17:58:21 2025 +0800
+
+    Add beef gochujang and finish page for the recipe
+
+[33mcommit 570d192c8e3644d4673200e9fe8e3fd5c8cfb8f5[m
+Author: schmebulock22 <schmebulock@Xubuntu.myguest.virtualbox.org>
+Date:   Mon Aug 25 16:07:09 2025 +0800
+
+    Add images repository, index page, and additional
+    information on each page.
+
+[33mcommit 74d4d708baa199f3d662d51d9e390e3296276913[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: schmebulock22 <schmebulock@Xubuntu.myguest.virtualbox.org>
+Date:   Tue Aug 5 01:38:50 2025 +0800
+
+    Write a brief introduction for my first project
+
+[33mcommit a5720727e45be3b8e5900400ea425d91333e3bac[m
+Author: schmebulock22 <223293610+schmebulock22@users.noreply.github.com>
+Date:   Tue Aug 5 01:16:07 2025 +0800
+
+    Initial commit
